@@ -11,7 +11,7 @@ exemples:
 / $> 
 ```
 
-For have command  '_'  
+For have command  _ 
 put dirmman for exemple in `~/git_source/`
 and make a link in `/usr/bin/` to `_` 
 `sudo ln -s  ~/git_source/underscore_/_  /usr/bin/_`
